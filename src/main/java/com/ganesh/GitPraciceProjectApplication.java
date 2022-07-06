@@ -10,6 +10,7 @@ public class GitPraciceProjectApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(GitPraciceProjectApplication.class, args);
 		System.out.println("Welcome to the git project");
+		// Working on HIS-122
 		context.close();
 	}
 
