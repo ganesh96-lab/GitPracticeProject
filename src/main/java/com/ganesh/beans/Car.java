@@ -7,4 +7,9 @@ public class Car {
 		System.out.println("Im in car class");
 	}
 
+	//HIS-155 related changes
+	public void doProcess(){
+		//logic goes here
+	}
+
 }
